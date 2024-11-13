@@ -14,10 +14,15 @@
 the dataset consists of 2527 images:
 
 501 glass
+
 594 paper
+
 403 cardboard
+
 482 plastic
+
 410 metal
+
 137 trash
 
 ## 데이터 시각화
